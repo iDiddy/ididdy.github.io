@@ -11,3 +11,17 @@ Section: Themes
 Description: A Simple Theme!
 Author: iDiddy <lukedidion5@gmail.com>
 Name: Tagia
+
+Package: com.duraidabdul.neptune-
+Version: 1.0-8
+Architecture: iphoneos-arm
+Maintainer: iDiddy <lukedidion5@gmail.com>
+Filename: /Neptune.deb
+Size: 42420
+MD5sum: 8f08e54c9ed42515e59694006abac873
+SHA1: 6b0ad6787e2133f2b92071a1b769d6b3598d4073
+SHA256: 8af958bd2b2fc4c346801a21781fc6de43ce6ae5e685e3180273de85f90de1b7
+Section: Tweaks
+Description: Enable Apple's modern fluid gestural interface on all devices.
+Author: Duraid Abdul <noemail@gmail.com>
+Name: Neptune
